@@ -20,7 +20,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ### 📝 Selected Publications {#publications}
 
-**† 通信作者**
+†**通信作者**
 
 1. Ziming Yu, Pan Zhou, Sike Wang, **Jia Li**†, Mi Tian, Hua Huang. Zeroth-order fine-tuning of LLMs in random subspaces. Proceedings of the International Conference on Computer Vision (ICCV), 2025.
    
@@ -41,7 +41,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ---
 
-### 🎓 **Graduated Students** {#students}
+### 🎓 Graduated Students {#students}
 
 1. Sike Wang, Master in 2022, One NeurIPS 2024 paper, Pursuing a Ph.D. at Beijing Normal University.
 
@@ -63,7 +63,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 1. Graduate Course: Optimization Theory and Methods
 2. Undergraduate Course: Digital Image Processing
 
-### 🌐  Academic Activities  {#activities}
+### 🌐  Academic Activities {#activities}
 
 1. Reviewer to Journals: IJCV, TIP, TNNLS, PR
 2. Reviewer to Conferences: NeurIPS, ICML, ICLR, ICCV, AAAI, ACM MM, ACL
