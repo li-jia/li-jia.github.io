@@ -5,7 +5,7 @@
 📧 jiali.gm@gmail.com · jiali@bnu.edu.cn
 
 ```
-![这是图片](/asset/lijia.jpg)
+![这是图片](/assets/jiali.jpg)
 ```
 
 I am an Associate Professor at the School of Artificial Intelligence, Beijing Normal University.
