@@ -10,7 +10,7 @@ My research interests include machine learning, optimization, and computer visio
 
 ---
 
-### 🔥 Recruitment
+### 🔥 Recruitment {#recruitment}
 
 I am hiring Master students and Undergraduate Research Interns!!! 
 
@@ -18,7 +18,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ---
 
-### 📝 Selected Publications
+### 📝 Selected Publications {#publications}
 
 **† 通信作者**
 
@@ -41,7 +41,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ---
 
-### 🎓 **Graduated Students**
+### 🎓 **Graduated Students** {#students}
 
 1. Sike Wang, Master in 2022, One NeurIPS 2024 paper, Pursuing a Ph.D. at Beijing Normal University.
 
@@ -49,7 +49,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ---
 
-### 🌟  Awards
+### 🌟  Awards {#awards}
 
 1. ICIG Outstanding Area Chair, China Society of Image and Graphics, 2025
 2. Capital Frontier Academic Achievement Award, Beijing Association for Science and Technology, 2022
@@ -58,12 +58,12 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ---
 
-### 📚 Courses
+### 📚 Courses {#courses}
 
 1. Graduate Course: Optimization Theory and Methods
 2. Undergraduate Course: Digital Image Processing
 
-### 🌐  Academic Activities
+### 🌐  Academic Activities  {#activities}
 
 1. Reviewer to Journals: IJCV, TIP, TNNLS, PR
 2. Reviewer to Conferences: NeurIPS, ICML, ICLR, ICCV, AAAI, ACM MM, ACL
