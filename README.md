@@ -28,7 +28,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
    
 1. **Jia Li**, Chenyan Bai, Hua Huang. Universal demosaicking for interpolation-friendly RGBW color filter arrays. IEEE Transactions on Image Processing (TIP), Vol. 32, pp.3592-3605, 2023.
    
-1. **Jia Li**, Mingqing Xiao, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin. Training neural networks by lifted proximal operator machines. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 44, No.6, 2022. (CCF-A)
+1. **Jia Li**, Mingqing Xiao, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin. Training neural networks by lifted proximal operator machines. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 44, No.6, 2022.
    
 1.  **Jia Li**, Chenyan Bai, Zhouchen Lin, Jian Yu. Automatic design of high-sensitivity color filter arrays with panchromatic pixels. IEEE Transactions on Image Processing (TIP), 2017, 26(2): 870-883.
    
