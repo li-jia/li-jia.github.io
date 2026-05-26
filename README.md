@@ -4,7 +4,7 @@
 
 📧 jiali.gm AT gmail.com · jiali AT bnu.edu.cn 
 
-<img align="left" src="./assets/jiali.jpg" width="50%">
+<img align="left" src="./assets/jiali.jpg" width="20%">
 
 My research interests include machine learning, optimization, and computer vision. My current research focuses on large language models for basic education, as well as efficient pre-training and post-training techniques. Before joining Beijing Normal University, I was a Boya Postdoctoral Researcher at Peking University, working with Prof. [Zhouchen Lin](https://zhouchenlin.github.io/). I received my Ph.D. in Computer Science from Beijing Jiaotong University in 2017, under the supervision of Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and Prof. [Jian Yu](https://faculty.bjtu.edu.cn/6463/).
 
