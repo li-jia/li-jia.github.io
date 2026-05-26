@@ -20,7 +20,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 ### 📝 Selected Publications 
 
-†**通信作者**
+†**Corresponding Author**
 
 1. Ziming Yu, Pan Zhou, Sike Wang, **Jia Li**†, Mi Tian, Hua Huang. Zeroth-order fine-tuning of LLMs in random subspaces. Proceedings of the International Conference on Computer Vision (ICCV), 2025. [[pdf](./assets/2025-ICCV-Zeroth-Order Fine-Tuning of LLMs in Random Subspaces.pdf)]
    
