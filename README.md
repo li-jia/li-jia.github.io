@@ -65,7 +65,7 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
    
 2. Undergraduate Course: Digital Image Processing
 
-### 🌐  Academic Activities {#activities}
+### 🌐  Academic Activities 
 
 1. Reviewer to Journals: IJCV, TIP, TNNLS, PR
 
