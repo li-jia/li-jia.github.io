@@ -1,3 +1,5 @@
+<div style="position:sticky;top:0;z-index:100;background:#fff;border-bottom:2px solid #2a5ada;padding:10px 20px;font-size:1.1em;font-weight:700;color:#2a5ada;letter-spacing:2px;">格物致知</div>
+
 ## Jia Li (李嘉)
 
 **Associate Professor, School of Artificial Intelligence, Beijing Normal University** 
