@@ -1,4 +1,4 @@
-## Jia Li (李嘉)   <img align="right" src="./assets/bnu.jpg" width="15%">
+### Jia Li (李嘉)   <img align="right" src="./assets/bnu.jpg" width="15%">
 
 **Associate Professor, School of Artificial Intelligence, Beijing Normal University** 
 
