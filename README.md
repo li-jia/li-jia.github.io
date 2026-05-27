@@ -12,7 +12,7 @@ My research interests include machine learning, optimization, and computer visio
 
 ### 🔥 Recruitment 
 
-I am hiring Master students and Undergraduate Research Interns!!! 
+I am hiring Master's students and undergraduate research interns!!! 
 
 If you have strong mathematical abilities, are self-motivated, and are interested in using mathematics to solve real-world problems in an elegant way, please feel free to email me.
 
