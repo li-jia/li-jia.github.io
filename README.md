@@ -61,9 +61,11 @@ If you are self-motivated, have strong mathematical and coding skills, and are i
 
 ### 📚 Courses 
 
-1. Graduate Course: Optimization Theory and Methods
-   
-2. Undergraduate Course: Digital Image Processing
+1. For Academic Master and Doctor of Philosophy: Optimization Theory and Methods
+
+2. For Doctor of Engineering: Optimization Theory and Methods
+
+3. For Undergraduate: Digital Image Processing
 
 ### 🌐  Academic Activities
 
@@ -75,4 +77,4 @@ If you are self-motivated, have strong mathematical and coding skills, and are i
 
 ---
 
-*Last updated: May 2026*
+*Last updated: Sept. 2026*
