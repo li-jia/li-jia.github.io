@@ -4,9 +4,7 @@
 
 📧 jiali.gm AT gmail.com · jiali AT bnu.edu.cn 
 
-<img align="left" src="./assets/jiali.jpg" width="20%">
-
-My research interests include machine learning, optimization, and computer vision. My current research focuses on large language models for basic education, as well as efficient pre-training and post-training techniques. Before joining Beijing Normal University, I was a Boya Postdoctoral Researcher at Peking University, working with Prof. [Zhouchen Lin](https://zhouchenlin.github.io/). I received my Ph.D. in Computer Science from Beijing Jiaotong University in 2017, under the supervision of Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and Prof. [Jian Yu](https://faculty.bjtu.edu.cn/6463/).
+<img align="left" src="./assets/jiali.jpg" width="25%">My research interests include machine learning, optimization, and computer vision. I focus on efficient AI computing for basic education, developing cost-effective solutions for large-model inference, retrieval of large-scale educational resources, and personalized recommendation under strict computational constraints. The goal is to make state-of-the-art AI practical and accessible in resource-limited educational settings without sacrificing effectiveness. Before joining Beijing Normal University, I was a Boya Postdoctoral Researcher at Peking University, working with Prof. [Zhouchen Lin](https://zhouchenlin.github.io/). I received my Ph.D. in Computer Science from Beijing Jiaotong University in 2017, under the supervision of Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and Prof. [Jian Yu](https://faculty.bjtu.edu.cn/6463/).
 
 ---
 
@@ -22,23 +20,21 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
 
 †**Corresponding Author**
 
-1. 基于优化状态特性的显存高效零阶优化算法, 余梓铭, 北京师范大学学术硕士论文, 2026. [[pdf](./assets/2026-学硕-余梓铭-毕业论文.pdf)]
+1. Ziming Yu, Pan Zhou, Sike Wang, **Jia Li**†, Mi Tian, Hua Huang. Zeroth-order fine-tuning of LLMs in random subspaces. Proceedings of the International Conference on Computer Vision (ICCV), 2025. [[pdf](./assets/2025-ICCV-Zeroth-Order Fine-Tuning of LLMs in Random Subspaces.pdf)]
+   
+2. Sike Wang, Pan Zhou, **Jia Li**†, Hua Huang. 4-bit Shampoo for memory-efficient network training. Advances in Neural Information Processing Systems (NeurIPS), 2024. [[pdf](./assets/2024-NeurIPS-4-bit Shampoo for Memory-Efficient Network Training.pdf)]
+   
+3. **Jia Li**, Chenyan Bai, Hua Huang. Universal demosaicking for interpolation-friendly RGBW color filter arrays. IEEE Transactions on Image Processing (TIP), Vol. 32, pp.3592-3605, 2023. [[pdf](./assets/2023-TIP-Universal Demosaicking for Interpolation-Friendly RGBW Color Filter Arrays.pdf)]
+   
+4. **Jia Li**, Mingqing Xiao, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin. Training neural networks by lifted proximal operator machines. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 44, No.6, 2022. [[pdf](./assets/2022-TPAMI-Training Neural Networks by Lifted Proximal Operator Machines.pdf)]
+   
+5.  **Jia Li**, Chenyan Bai, Zhouchen Lin, Jian Yu. Optimized color filter arrays for sparse representation based demosaicking. IEEE Transactions on Image Processing (TIP), 2017, 26(5): 2381-2393. [[pdf](./assets/2017-TIP-Optimized Color Filter Arrays for Sparse Representation-Based Demosaicking.pdf)] 
 
-2. Ziming Yu, Pan Zhou, Sike Wang, **Jia Li**†, Mi Tian, Hua Huang. Zeroth-order fine-tuning of LLMs in random subspaces. Proceedings of the International Conference on Computer Vision (ICCV), 2025. [[pdf](./assets/2025-ICCV-Zeroth-Order Fine-Tuning of LLMs in Random Subspaces.pdf)]
-   
-3. Sike Wang, Pan Zhou, **Jia Li**†, Hua Huang. 4-bit Shampoo for memory-efficient network training. Advances in Neural Information Processing Systems (NeurIPS), 2024. [[pdf](./assets/2024-NeurIPS-4-bit Shampoo for Memory-Efficient Network Training.pdf)]
-   
-4. **Jia Li**, Chenyan Bai, Hua Huang. Universal demosaicking for interpolation-friendly RGBW color filter arrays. IEEE Transactions on Image Processing (TIP), Vol. 32, pp.3592-3605, 2023. [[pdf](./assets/2023-TIP-Universal Demosaicking for Interpolation-Friendly RGBW Color Filter Arrays.pdf)]
-   
-5. **Jia Li**, Mingqing Xiao, Cong Fang, Yue Dai, Chao Xu, Zhouchen Lin. Training neural networks by lifted proximal operator machines. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Vol. 44, No.6, 2022. [[pdf](./assets/2022-TPAMI-Training Neural Networks by Lifted Proximal Operator Machines.pdf)]
-   
-6.  **Jia Li**, Chenyan Bai, Zhouchen Lin, Jian Yu. Optimized color filter arrays for sparse representation based demosaicking. IEEE Transactions on Image Processing (TIP), 2017, 26(5): 2381-2393. [[pdf](./assets/2017-TIP-Optimized Color Filter Arrays for Sparse Representation-Based Demosaicking.pdf)] 
-   
-7.  **Jia Li**, Chenyan Bai, Zhouchen Lin, Jian Yu. Automatic design of high-sensitivity color filter arrays with panchromatic pixels. IEEE Transactions on Image Processing (TIP), 2017, 26(2): 870-883. [[pdf](./assets/2017-TIP-Automatic Design of High-Sensitivity Color Filter Arrays With Panchromatic Pixels.pdf)]
+6.  **Jia Li**, Chenyan Bai, Zhouchen Lin, Jian Yu. Automatic design of high-sensitivity color filter arrays with panchromatic pixels. IEEE Transactions on Image Processing (TIP), 2017, 26(2): 870-883. [[pdf](./assets/2017-TIP-Automatic Design of High-Sensitivity Color Filter Arrays With Panchromatic Pixels.pdf)]
 
-8. Chenyan Bai, **Jia Li**, Zhouchen Lin, and Jian Yu. Automatic design of color filter arrays in the frequency domain. IEEE Transactions on Image Processing (TIP), 2016, 25(4): 1793-1807. [[pdf](./assets/2016-TIP-Automatic Design of Color Filter Arrays in the Frequency Domain.pdf)]
+7. Chenyan Bai, **Jia Li**, Zhouchen Lin, and Jian Yu. Automatic design of color filter arrays in the frequency domain. IEEE Transactions on Image Processing (TIP), 2016, 25(4): 1793-1807. [[pdf](./assets/2016-TIP-Automatic Design of Color Filter Arrays in the Frequency Domain.pdf)]
    
-9. Chenyan Bai, **Jia Li**, Zhouchen Lin, Jian Yu, and Yen-Wei Chen. Penrose demosaicking. IEEE Transactions on Image Processing (TIP), Vol. 24, No. 5, pp. 1672-1684, 2015. [[pdf](./assets/2015-TIP-Penrose Demosaicking.pdf)]
+8. Chenyan Bai, **Jia Li**, Zhouchen Lin, Jian Yu, and Yen-Wei Chen. Penrose demosaicking. IEEE Transactions on Image Processing (TIP), Vol. 24, No. 5, pp. 1672-1684, 2015. [[pdf](./assets/2015-TIP-Penrose Demosaicking.pdf)]
    
 
 ---
