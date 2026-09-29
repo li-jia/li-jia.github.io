@@ -4,15 +4,15 @@
 
 📧 jiali.gm AT gmail.com · jiali AT bnu.edu.cn 
 
-<img align="left" src="./assets/jiali.jpg" width="25%">My research interests include machine learning, optimization, and computer vision. I focus on efficient AI computing for basic education, developing cost-effective solutions for large-model inference, retrieval of large-scale educational resources, and personalized recommendation under strict computational constraints. The goal is to make state-of-the-art AI practical and accessible in resource-limited educational settings without sacrificing effectiveness. Before joining Beijing Normal University, I was a Boya Postdoctoral Researcher at Peking University, working with Prof. [Zhouchen Lin](https://zhouchenlin.github.io/). I received my Ph.D. in Computer Science from Beijing Jiaotong University in 2017, under the supervision of Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and Prof. [Jian Yu](https://faculty.bjtu.edu.cn/6463/).
+<img align="left" src="./assets/jiali.jpg" width="30%" style="margin-right: 20px; ">My research interests include machine learning and numerical optimization. I focus on efficient AI computing for basic education. I am currently developing cost-effective solutions for large-model inference, improving retrieval of large-scale educational resources, and enabling personalized recommendations under strict computational constraints. My goal is to make state-of-the-art AI practical and accessible in resource-limited educational settings, without sacrificing effectiveness. Before joining Beijing Normal University, I was a Boya Postdoctoral Researcher at Peking University, working with Prof. [Zhouchen Lin](https://zhouchenlin.github.io/). I received my Ph.D. in Computer Science from Beijing Jiaotong University in 2017, under the supervision of Prof. [Zhouchen Lin](https://zhouchenlin.github.io/) and Prof. [Jian Yu](https://faculty.bjtu.edu.cn/6463/).
 
 ---
 
-### 🔥 Recruitment 
+### 🔥 Recruitment
 
 I am recruiting Master’s students and undergraduate research interns!!! 
 
-If you have strong mathematical abilities, are self-motivated, and are interested in using mathematics to solve real-world problems in an elegant way, please feel free to email me.
+If you are self-motivated, have strong mathematical and coding skills, and are interested in using mathematics to solve real-world problems in an elegant way, please feel free to email me.
 
 ---
 
@@ -65,13 +65,13 @@ If you have strong mathematical abilities, are self-motivated, and are intereste
    
 2. Undergraduate Course: Digital Image Processing
 
-### 🌐  Academic Activities 
+### 🌐  Academic Activities
 
 1. Reviewer to Journals: IJCV, TIP, TNNLS, PR
 
 2. Reviewer to Conferences: NeurIPS, ICML, ICLR, ICCV, AAAI, ACM MM, ACL
 
-3. PRCV 2023/2024/2025 (Area Chair), ICME 2026 (Area Chair), ICIG 2025 (Area Chair)
+3. Area Chair: PRCV 2023-2026, ICME 2026, ICIG 2025/2026
 
 ---
 
